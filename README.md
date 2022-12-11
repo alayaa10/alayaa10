@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alayaa10
+- 👋 Hi, I’m Alaya Guajardo
 - 👀 I’m interested in ... FullStack Development !!
 - 🌱 I currently graduated ... from a Fullstack boot camp at UT Austin. 
 - 💞️ I’m looking to collaborate on ... all frontend and backend web development.
